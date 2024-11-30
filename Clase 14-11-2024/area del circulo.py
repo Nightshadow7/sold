@@ -10,7 +10,7 @@ def calcular_area_circulo(radio):
 # funcion principal
 def main():
   # variables y entrada de datos
-  nombre_usuario = input("¿Como te llamas?")
+  nombre_usuario = input("¿Como te llamas? ")
   saludar(nombre_usuario)
 
   try:
